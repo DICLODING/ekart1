@@ -1,0 +1,85 @@
+{
+  "maincategory": [
+    {
+      "id": "0"
+    },
+    {
+      "id": "61c2",
+      "name": "Mahesh"
+    },
+    {
+      "id": "0d12",
+      "name": "main"
+    },
+    {
+      "id": "f44a",
+      "name": "maile"
+    },
+    {
+      "id": "909c",
+      "name": "mah"
+    },
+    {
+      "id": "a9ea",
+      "name": "mjhbh"
+    },
+    {
+      "id": "d960",
+      "name": "jatin"
+    },
+    {
+      "id": "4814",
+      "name": "hhuhijjn"
+    }
+  ],
+  "subcategory": [
+    {
+      "id": "0"
+    }
+  ],
+  "brand": [
+    {
+      "id": "0"
+    }
+  ],
+  "product": [
+    {
+      "id": "0"
+    }
+  ],
+  "user": [
+    {
+      "id": "0"
+    }
+  ],
+  "cart": [
+    {
+      "id": "0"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "0"
+    }
+  ],
+  "checkout": [
+    {
+      "id": "0"
+    }
+  ],
+  "newsletter": [
+    {
+      "id": "0"
+    }
+  ],
+  "contactus": [
+    {
+      "id": "0"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "0"
+    }
+  ]
+}
